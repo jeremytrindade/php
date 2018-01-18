@@ -3,7 +3,7 @@
 
 	echo "Olá mundo!";
 
-	echo "Olá Jérémy DA TRINDADE"
+	echo "Olá Jérémy DA TRINDADE";
 
 
 ?>
